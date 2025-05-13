@@ -604,15 +604,12 @@ li:nth-child(4):hover .E-portal {
 {
     width: 40%;
 }
-.flex8 div:nth-child(2)
-{
-    /* width: 100%; */
-}
+
 .flex8 h1
 {
     color: white;
     font-size: 4em;
-    text-align: ;
+    
 }
 .flex8 p
 {
@@ -694,8 +691,4 @@ li:nth-child(4):hover .E-portal {
     {
         width: inherit;
     }
-}
-.section9
-{
-    /* margin-top: 100px; */
 }
